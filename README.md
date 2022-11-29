@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/OrangeFalcon14/OrangeFalcon14/raw/main/GitHub Avatar.png" width=200px height=200px style="border-radius: 10px;"/>
+  <img src="https://avatars.githubusercontent.com/u/108143702" width=200px height=200px style="border-radius: 10px;"/>
   <h1>OrangeFalcon14</h1>
 </div>
 
