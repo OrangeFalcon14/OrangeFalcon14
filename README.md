@@ -5,7 +5,7 @@
 
 ## 👦 About Me:
 ```python3
-abt_me = ["am a Python and Web developer.", "use Ubuntu as my daily driver.", "do programming and web developement \
+abt_me = ["am a Python and Web developer.", "use Linux as my daily driver.", "do programming and web developement \
 mainly as a hobby.", "love configuring and customizing stuff."]
 
 for num, thing in enumerate(abt_me, start=1):
@@ -13,7 +13,7 @@ for num, thing in enumerate(abt_me, start=1):
 ```
 ### Output: 
 1. I am a Python and Web developer. <br>
-2. I use Ubuntu as my daily driver. <br>
+2. I use Linux as my daily driver. <br>
 3. I do programming and web developement mainly as a hobby. <br>
 4. I love configuring and customizing stuff. <br>
 
