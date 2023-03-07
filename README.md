@@ -26,7 +26,7 @@ for num, thing in enumerate(abt_me, start=1):
 <img src="https://www.gtk.org/assets/img/logo-gtk-sm.png" height="40px" width="40px" title="GTK" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40px" width="40px" title="VSCode" />&nbsp;
 <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/pycharm.svg" height="40px" width="40px" title="PyCharm" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height="40px" width="40px" title="Ubuntu" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40px" width="40px" title="Ubuntu" />
 
 <details>
   <summary>
